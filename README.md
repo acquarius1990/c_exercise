@@ -1,4 +1,4 @@
 c_exercise
 ==========
 
-toy repository for learning github and C
+A toy repository for learning github and C
